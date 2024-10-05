@@ -25,8 +25,8 @@ The dataset used for this project includes the following features:
    
 3. **Model Development**: Multiple machine learning algorithms were implemented and evaluated, including:
    - **Logistic Regression**
-   - **Random Forest**
-   - **Support Vector Machine (SVM)**
+   - **Decision Tree**
+   - **Gradient Boosting**
    - **K-Nearest Neighbors (KNN)**
    
 4. **Model Evaluation**: The performance of the models was compared using metrics such as accuracy, precision, recall, and F1-score.
