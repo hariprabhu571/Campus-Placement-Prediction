@@ -340,10 +340,10 @@ We welcome contributions! Please follow these steps:
 ### 🔧 Development Setup
 ```bash
 # Fork the repository
-git clone https://github.com/yourusername/campus-placement-prediction.git
+git clone https://github.com/hariprabhu571/campus-placement-prediction.git
 cd campus-placement-prediction
 
-# Create feature branch
+# Create a feature branch
 git checkout -b feature/amazing-feature
 
 # Make your changes
@@ -372,57 +372,14 @@ git push origin feature/amazing-feature
 - **Documentation**: Improve code comments and documentation
 - **Performance**: Optimize existing algorithms
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### 📋 License Summary
-- **Commercial Use**: ✅ Allowed
-- **Modification**: ✅ Allowed
-- **Distribution**: ✅ Allowed
-- **Private Use**: ✅ Allowed
-- **Liability**: ❌ Limited
-- **Warranty**: ❌ None
 
 ## 📞 Contact
 
 ### 👨‍💻 Project Maintainer
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Name**: Hari Raja Prabhu P
+- **Email**: hariprabhu571@gmail.com
+- **GitHub**: [@hariprabhu571](https://github.com/hariprabhu571)
 
-### 🌐 Project Links
-- **Repository**: [GitHub](https://github.com/yourusername/campus-placement-prediction)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/campus-placement-prediction/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/campus-placement-prediction/discussions)
-
-### 📚 Additional Resources
-- **Documentation**: [Project Wiki](https://github.com/yourusername/campus-placement-prediction/wiki)
-- **Tutorial**: [Step-by-step Guide](https://github.com/yourusername/campus-placement-prediction/blob/main/Instructions.txt)
-- **Examples**: [Usage Examples](https://github.com/yourusername/campus-placement-prediction/examples)
 
 ---
 
-## 🙏 Acknowledgments
-
-- **Dataset Source**: [Original dataset contributors]
-- **Scikit-learn Team**: For the excellent ML library
-- **Jupyter Team**: For the interactive development environment
-- **Open Source Community**: For inspiration and support
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/campus-placement-prediction&type=Date)](https://star-history.com/#yourusername/campus-placement-prediction&Date)
-
----
-
-<div align="center">
-
-**Made with ❤️ for the Machine Learning Community**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/campus-placement-prediction?style=social)](https://github.com/yourusername/campus-placement-prediction)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/campus-placement-prediction?style=social)](https://github.com/yourusername/campus-placement-prediction)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/campus-placement-prediction)](https://github.com/yourusername/campus-placement-prediction/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/campus-placement-prediction)](https://github.com/yourusername/campus-placement-prediction/pulls)
-
-</div>
