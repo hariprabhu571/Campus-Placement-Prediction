@@ -35,6 +35,10 @@ This project implements a comprehensive machine learning solution to predict cam
 - 🎯 **Provide Actionable Insights**: Help students improve their placement chances
 - 📈 **Support Institutional Decisions**: Guide placement preparation strategies
 
+### 📊 Project Overview Dashboard
+
+![Project Overview](images/project_overview.png)
+
 ## 🚀 Features
 
 ### ✨ Core Features
@@ -73,6 +77,10 @@ Our dataset contains comprehensive student information across multiple dimension
 - **Gender Distribution**: Balanced representation
 - **Academic Correlation**: Strong relationship between academic performance and placement
 - **Experience Impact**: Work experience significantly improves placement chances
+
+### 📊 Data Distribution Analysis
+
+![Data Distribution](images/data_distribution.png)
 
 ## 🛠️ Technologies
 
@@ -124,9 +132,15 @@ Our dataset contains comprehensive student information across multiple dimension
 - **Use Case**: When data distribution is unknown
 - **Performance**: Baseline comparison
 
+### 🔄 Machine Learning Workflow
+
+![Model Workflow](images/model_workflow.png)
+
 ## 🏆 Results
 
 ### 📊 Model Performance Comparison
+
+![Model Comparison](images/model_comparison.png)
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
@@ -140,6 +154,38 @@ Our dataset contains comprehensive student information across multiple dimension
 - **Academic performance** is the strongest predictor
 - **Work experience** significantly improves placement chances
 - **Gender** has minimal impact on placement outcomes
+
+### 📈 Feature Importance Analysis
+
+![Feature Importance](images/feature_importance.png)
+
+### 🔗 Feature Correlation Analysis
+
+![Correlation Matrix](images/correlation_matrix.png)
+
+### 📊 Data Distribution Insights
+
+![Data Distribution](images/data_distribution.png)
+
+### 🔗 Feature Correlations
+
+![Correlation Matrix](images/correlation_matrix.png)
+
+### 🔄 Machine Learning Workflow
+
+![Model Workflow](images/model_workflow.png)
+
+### 📈 Model Performance Trends
+
+![Accuracy Trends](images/accuracy_trend.png)
+
+### 📋 Detailed Model Analysis
+
+![Confusion Matrices](images/confusion_matrices.png)
+
+### 📊 Project Overview Dashboard
+
+![Project Overview](images/project_overview.png)
 
 ## ⚡ Quick Start
 
