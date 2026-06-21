@@ -23,7 +23,6 @@
 - [🎨 Project Structure](#-project-structure)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
-- [📞 Contact](#-contact)
 
 ## 🎯 Overview
 
@@ -371,15 +370,6 @@ git push origin feature/amazing-feature
 - **Visualization**: Enhance data visualization capabilities
 - **Documentation**: Improve code comments and documentation
 - **Performance**: Optimize existing algorithms
-
-
-## 📞 Contact
-
-### 👨‍💻 Project Maintainer
-- **Name**: Hari Raja Prabhu P
-- **Email**: hariprabhu571@gmail.com
-- **GitHub**: [@hariprabhu571](https://github.com/hariprabhu571)
-
 
 ---
 
